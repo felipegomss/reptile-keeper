@@ -55,7 +55,7 @@ export default function RegisterPage() {
       if (result?.error) {
         setError("Conta criada, mas erro ao entrar. Tente fazer login.");
       } else {
-        router.push("/");
+        router.push("/dashboard");
         router.refresh();
       }
     } catch {

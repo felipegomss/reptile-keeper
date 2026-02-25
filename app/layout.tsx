@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 import { AuthSessionProvider } from "@/components/providers/session-provider";
 import "./globals.css";
 
@@ -14,7 +15,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Reptile Keeper",
+  title: {
+    default: "Reptile Keeper",
+    template: "%s | Reptile Keeper",
+  },
   description: "Gerenciamento completo do seu réptil de estimação",
 };
 
@@ -29,6 +33,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <AuthSessionProvider>{children}</AuthSessionProvider>
+        <Analytics />
       </body>
     </html>
   );

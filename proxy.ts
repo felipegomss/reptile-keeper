@@ -7,7 +7,7 @@ const { auth } = NextAuth(authConfig);
 export default auth((req) => {
   const { pathname } = req.nextUrl;
 
-  const publicRoutes = ["/login", "/register", "/api/register", "/api/auth"];
+  const publicRoutes = ["/", "/login", "/register", "/api/register", "/api/auth"];
 
   const isPublic = publicRoutes.some(
     (route) => pathname === route || pathname.startsWith(route + "/"),
@@ -15,7 +15,7 @@ export default auth((req) => {
 
   if (isPublic) {
     if (req.auth && (pathname === "/login" || pathname === "/register")) {
-      return NextResponse.redirect(new URL("/", req.url));
+      return NextResponse.redirect(new URL("/dashboard", req.url));
     }
     return NextResponse.next();
   }
