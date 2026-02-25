@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "jiboia-boa-constrictor",
+    "name": "Jiboia",
+    "scientificName": "Boa constrictor",
+    "category": "serpente",
+    "size": "2-3 metros; 15+ kg",
+    "lifespan": "15-30 anos",
+    "temperament": "Noturna, solitária, geralmente dócil quando manuseada regularmente.",
+    "temperature": {
+      "hotSide": "28-32°C",
+      "coldSide": "24-27°C",
+      "notes": "Termostato altamente recomendado."
+    },
+    "humidity": "50-70%",
+    "enclosure": {
+      "juvenile": "Mínimo 120x60x60 cm",
+      "adult": "Diagonal do terrário deve igualar o comprimento do animal",
+      "type": "Vidro, madeira, plástico ou alvenaria"
+    },
+    "substrate": ["Fibra de coco", "Chips de coco"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "A cada 15 dias",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Presa pré-abatida preferida."
+    },
+    "shedding": {
+      "frequency": "Variável conforme crescimento",
+      "notes": "Umidade adequada facilita trocas saudáveis."
+    },
+    "lighting": "Gradiente de luz e temperatura deve ser mantido. UVB não obrigatório.",
+    "health": ["Sem vacinação de rotina", "Termostato essencial para estabilidade térmica", "Consulta veterinária anual recomendada"],
+    "tips": [
+      "Cuidado diário: ~15 min inspeção.",
+      "Semanal: ~1 hora limpeza básica.",
+      "Mensal: ~1 hora alimentação e manutenção detalhada.",
+      "Pelo menos um esconderijo obrigatório.",
+      "Tigela de água de tamanho adequado essencial."
+    ],
+    "source": "https://meuexotico.com.br/pet/jiboia-boa-constrictor/"
+  },
+  {
+    "id": "jiboia-arco-iris",
+    "name": "Jiboia Arco-Íris",
+    "scientificName": "Epicrates spp.",
+    "category": "serpente",
+    "size": "1,30-2,20 metros; 1-5 kg",
+    "lifespan": "15-20 anos",
+    "temperament": "Noturna, solitária, geralmente dócil. E. cenchria pode ser menos dócil.",
+    "temperature": {
+      "hotSide": "25-28°C",
+      "coldSide": "22-24°C",
+      "notes": "Termostato altamente recomendado."
+    },
+    "humidity": "Acima de 70%",
+    "enclosure": {
+      "juvenile": "90x45x45 cm",
+      "adult": "Diagonal deve igualar comprimento do animal",
+      "type": "Vidro, madeira, plástico ou alvenaria"
+    },
+    "substrate": ["Fibra de coco", "Musgo sphagnum"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "A cada 15 dias",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Presa pré-abatida recomendada. Alimentação viva desencorajada."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Alta umidade ajuda no processo."
+    },
+    "lighting": "Gradiente de luz necessário. UVB não obrigatório.",
+    "health": ["Sem vacinação de rotina", "Consulta veterinária anual recomendada"],
+    "tips": [
+      "Cuidado diário: ~15 min inspeção.",
+      "Cortiça, troncos, rochas e plantas para enriquecimento.",
+      "E. cenchria hygrophilus precisa de umidade ainda maior."
+    ],
+    "source": "https://meuexotico.com.br/pet/jiboia-arco-iris-epicrates-sp/"
+  },
+  {
+    "id": "suacuboia",
+    "name": "Suaçuboia",
+    "scientificName": "Corallus hortulana",
+    "category": "serpente",
+    "size": "1,5-2 metros; 600-900g",
+    "lifespan": "15-20 anos",
+    "temperament": "Defensiva e frequentemente alerta. Pode atacar quando ameaçada. Requer manuseio desde filhote para desenvolver docilidade.",
+    "temperature": {
+      "hotSide": "27-30°C",
+      "coldSide": "21-25°C",
+      "notes": "Noturna pode cair a 20°C. Lâmpada de aquecimento no topo com barreira protetora."
+    },
+    "humidity": "60-80%",
+    "enclosure": {
+      "juvenile": "60x60x45 cm",
+      "adult": "80x80x60 cm mínimo. TERRÁRIO VERTICAL obrigatório (espécie arborícola).",
+      "type": "Múltiplos poleiros horizontais, galhos suspensos, cortiça, esconderijos."
+    },
+    "substrate": ["Substrato que mantém umidade"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "A cada 15 dias",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Alimentar dentro do terrário para permitir comportamento arborícola natural."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Polimorfismo de cor natural (cinza, marrom, amarelo, laranja, vermelho)."
+    },
+    "lighting": "Lâmpada de aquecimento para ponto de basking.",
+    "health": ["Espécie mais desafiadora devido ao temperamento defensivo", "Consulta veterinária anual recomendada", "Fundo de emergência médica essencial"],
+    "tips": [
+      "Vegetação densa encorajada.",
+      "Manuseio frequente desde jovem é fundamental.",
+      "Espécie de dificuldade intermediária/avançada."
+    ],
+    "source": "https://meuexotico.com.br/pet/suacuboia-corallus-hortulana/"
+  },
+  {
+    "id": "bull-snake",
+    "name": "Bull Snake",
+    "scientificName": "Pituophis catenifer",
+    "category": "serpente",
+    "size": "1,20-1,80 metros; até 1,5 kg",
+    "lifespan": "20-25 anos",
+    "temperament": "Altamente ativa, DIURNA. Comportamento defensivo inclui sibilar e vibrar a cauda. Apetite voraz.",
+    "temperature": {
+      "hotSide": "26-29°C",
+      "coldSide": "21-25°C",
+      "notes": "Tapete térmico no lado quente."
+    },
+    "humidity": "40-60%",
+    "enclosure": {
+      "juvenile": "90x45x45 cm",
+      "adult": "Diagonal deve igualar comprimento do animal",
+      "type": "Vidro, madeira, plástico ou alvenaria"
+    },
+    "substrate": ["Aspen", "Chips de coco"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "Jovens: a cada 4-7 dias. Adultos: a cada 10-15 dias.",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Alimentação juvenil mais frequente que outras espécies."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Manter umidade adequada."
+    },
+    "lighting": "Gradiente de luz necessário. Espécie diurna.",
+    "health": ["Termostato essencial", "Consulta veterinária anual"],
+    "tips": [
+      "Uma das poucas serpentes DIURNAS na lista.",
+      "Jovens se alimentam mais frequentemente (4-7 dias).",
+      "Tigela de água de tamanho apropriado obrigatória."
+    ],
+    "source": "https://meuexotico.com.br/pet/bull-snake-pituophis-catenifer/"
+  },
+  {
+    "id": "sandboa",
+    "name": "Sandboa",
+    "scientificName": "Gongylophis colubrinus",
+    "category": "serpente",
+    "size": "38-76 cm; até 1 kg",
+    "lifespan": "15-20 anos",
+    "temperament": "Extremamente dócil, raramente morde. Noturna. Passa a maior parte do tempo enterrada no substrato.",
+    "temperature": {
+      "hotSide": "32-35°C",
+      "coldSide": "24-26°C",
+      "notes": "Tapete térmico sempre ligado. Lâmpada halógena durante o dia opcional."
+    },
+    "humidity": "30-40%",
+    "enclosure": {
+      "juvenile": "75x30x30 cm",
+      "adult": "90x45x45 cm",
+      "type": "Espécie fossorial. Substrato profundo obrigatório."
+    },
+    "substrate": ["Aspen", "Areia fina (areia 00)"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "A cada 15 dias",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Alimentar em recipiente separado. Nunca molhar a presa para evitar ingestão de substrato."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Substrato profundo (mínimo 3 cm) para comportamento de escavação."
+    },
+    "lighting": "Lâmpadas halógenas durante o dia para aquecimento adicional e fotoperíodo.",
+    "health": ["Sem vacinação de rotina", "Espécie menor — ideal para espaços limitados"],
+    "tips": [
+      "Menor serpente da lista.",
+      "Ideal para criadores com espaço limitado.",
+      "Substrato solto com mínimo 3 cm de profundidade para escavação.",
+      "Abrigos separados nos lados quente e frio."
+    ],
+    "source": "https://meuexotico.com.br/pet/sandboa/"
+  },
+  {
+    "id": "piton-mackloti",
+    "name": "Píton Mackloti",
+    "scientificName": "Liasis mackloti",
+    "category": "serpente",
+    "size": "Até 2,10 metros; 3-7 kg",
+    "lifespan": "15-20 anos",
+    "temperament": "Potencialmente temperamental. Desenvolve docilidade com manuseio consistente. Solitária, noturna.",
+    "temperature": {
+      "hotSide": "28-34°C",
+      "coldSide": "18-22°C",
+      "notes": "Maior gradiente térmico entre as espécies da lista."
+    },
+    "humidity": "~50%",
+    "enclosure": {
+      "juvenile": "Terrário proporcional",
+      "adult": "100x55x100 cm. Semi-arborícola — espaço vertical essencial.",
+      "type": "Galhos, cortiça, abrigos suspensos."
+    },
+    "substrate": ["Substrato que mantém boa umidade"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "A cada 15 dias",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Exclusivamente carnívora."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Coloração escura marrom-preta com toques verde-escuro."
+    },
+    "lighting": "Lâmpada de basking como parte do aquecimento. Placa de aquecimento também.",
+    "health": ["Sem vacinação de rotina", "Castração não é prática padrão"],
+    "tips": [
+      "Espécie semi-arborícola — precisa de espaço vertical e estruturas para escalar.",
+      "Múltiplas opções de esconderijo preferidas.",
+      "Termostatos, termômetros e higrômetros altamente recomendados."
+    ],
+    "source": "https://meuexotico.com.br/pet/piton-mackloti/"
+  },
+  {
+    "id": "piton-bola",
+    "name": "Píton Bola",
+    "scientificName": "Python regius",
+    "category": "serpente",
+    "size": "90-150 cm; ~1,5 kg",
+    "lifespan": "20-30 anos",
+    "temperament": "Dócil mas tímida. Noturna, solitária, territorial com outras serpentes.",
+    "temperature": {
+      "hotSide": "32-35°C",
+      "coldSide": "26-29°C",
+      "notes": "Placa de aquecimento obrigatória. Termostato altamente recomendado."
+    },
+    "humidity": "40-60%",
+    "enclosure": {
+      "juvenile": "Filhotes: 45x30x30 cm. Jovens: 90x45x45 cm.",
+      "adult": "Mínimo 120x60x60 cm. Diagonal deve igualar comprimento.",
+      "type": "Esconderijos e áreas de privacidade essenciais."
+    },
+    "substrate": ["Fibra de coco", "Chips de coco"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Pintinhos", "Codornas"],
+      "frequency": "Jovens: a cada 7-15 dias. Adultos: a cada 15-30 dias.",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Famosa por recusar alimento em períodos frios/secos — comportamento normal."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Recusa alimentar frequentemente coincide com ciclos de troca."
+    },
+    "lighting": "Gradiente de temperatura necessário. UVB não obrigatório.",
+    "health": ["Sem vacinação de rotina", "Recusa alimentar sazonal é normal"],
+    "tips": [
+      "Deve ser alojada sozinha.",
+      "Esconderijos são essenciais para reduzir estresse.",
+      "Enriquecimento vertical apreciado — escala ocasionalmente.",
+      "Cortiça, troncos, rochas e plantas como decoração."
+    ],
+    "source": "https://meuexotico.com.br/pet/piton-bola-python-regius/"
+  },
+  {
+    "id": "blood-python",
+    "name": "Blood Python",
+    "scientificName": "Python brongersmai",
+    "category": "serpente",
+    "size": "Machos: 90 cm-1,5 m. Fêmeas: 1,2-1,8 m. Até 9 kg.",
+    "lifespan": "15-20 anos",
+    "temperament": "Ligeiramente mais dócil que Python curtus. Jovens são medrosos e defensivos; ficam mais calmos com manuseio consistente.",
+    "temperature": {
+      "hotSide": "~30°C",
+      "coldSide": "~26°C",
+      "notes": "Placa de aquecimento com termostato."
+    },
+    "humidity": "60-70%",
+    "enclosure": {
+      "juvenile": "90x45x45 cm",
+      "adult": "120x60x60 cm. Diagonal deve igualar comprimento.",
+      "type": "Terrário horizontal. Animal de região pantanosa."
+    },
+    "substrate": ["Papel toalha em camadas", "Fibra de coco com musgo sphagnum"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Pintinhos", "Codornas"],
+      "frequency": "A cada 15 dias",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Oferecer em prato ou fora do terrário para minimizar ingestão de substrato."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Manter substrato úmido."
+    },
+    "lighting": "Gradiente de luz e temperatura essencial.",
+    "health": ["Sem vacinação de rotina", "Animal de região pantanosa — interage intimamente com substrato"],
+    "tips": [
+      "Substrato úmido importante — são animais de pântano.",
+      "Interagem naturalmente com substrato e escavam.",
+      "Nunca soltar na natureza."
+    ],
+    "source": "https://meuexotico.com.br/pet/blood-python/"
+  },
+  {
+    "id": "milk-snake",
+    "name": "Milk Snake",
+    "scientificName": "Lampropeltis triangulum",
+    "category": "serpente",
+    "size": "60-90 cm; ~225g",
+    "lifespan": "Até 20 anos",
+    "temperament": "Alto potencial de docilidade. Jovens podem ser defensivos mas ficam dóceis com manuseio. Noturna, solitária. PODE EXIBIR CANIBALISMO.",
+    "temperature": {
+      "hotSide": "~30°C",
+      "coldSide": "~25°C",
+      "notes": "Termostatos e termômetros/higrômetros recomendados."
+    },
+    "humidity": "40-60%",
+    "enclosure": {
+      "juvenile": "50x25x25 cm",
+      "adult": "90x45x45 cm mínimo. Diagonal deve igualar comprimento.",
+      "type": "Madeira, vidro, plástico resistente ou alvenaria"
+    },
+    "substrate": ["Aspen", "Chips de coco"],
+    "feeding": {
+      "preyTypes": ["Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "Jovens: a cada 4-7 dias. Adultos: a cada 10-15 dias.",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Exclusivamente carnívora. Presa inteira."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Manter umidade adequada."
+    },
+    "lighting": "Gradiente de temperatura. UVB não obrigatório.",
+    "health": ["Sem vacinação de rotina", "Defecam mais frequentemente que boídeos"],
+    "tips": [
+      "Conhecidas como 'bagunceiras' — defecam mais frequentemente.",
+      "NUNCA alojar com outras serpentes — tendências canibais.",
+      "Troncos, cortiça, rochas e plantas como enriquecimento."
+    ],
+    "source": "https://meuexotico.com.br/pet/milk-snake-lampropeltis-triangulum/"
+  },
+  {
+    "id": "kingsnake",
+    "name": "Kingsnake",
+    "scientificName": "Lampropeltis getulus",
+    "category": "serpente",
+    "size": "75-120 cm; até 1,5 kg",
+    "lifespan": "Até 20 anos",
+    "temperament": "Alto potencial de docilidade. Apetite voraz com altos níveis de atividade. Adequada para iniciantes.",
+    "temperature": {
+      "hotSide": "30°C",
+      "coldSide": "20°C",
+      "notes": "Placa de aquecimento no lado quente."
+    },
+    "humidity": "50-60%",
+    "enclosure": {
+      "juvenile": "50x25x25 cm",
+      "adult": "90x45x45 cm mínimo. Diagonal deve igualar comprimento.",
+      "type": "Madeira, vidro, plástico resistente ou alvenaria"
+    },
+    "substrate": ["California Kingsnake: chips de coco, lignocel (substrato seco)", "Florida Kingsnake: fibra de coco, sphagnum (substrato úmido)"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "Jovens: a cada 4-7 dias. Adultos: a cada 10-15 dias.",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Nunca alimentar com presa viva. Presa pré-abatida obrigatória."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Substrato varia por subespécie."
+    },
+    "lighting": "Gradiente de temperatura. UVB não obrigatório.",
+    "health": ["Sem vacinação de rotina", "Estritamente solitária — canibalismo e territorialidade"],
+    "tips": [
+      "NUNCA alojar com outras serpentes — canibalismo.",
+      "Tigela de água para beber e imersão.",
+      "Pelo menos um esconderijo obrigatório.",
+      "Substrato varia por subespécie (seco vs. úmido)."
+    ],
+    "source": "https://meuexotico.com.br/pet/kingsnake-lampropeltis-getulus/"
+  },
+  {
+    "id": "periquitamboia",
+    "name": "Periquitamboia",
+    "scientificName": "Corallus caninus / Corallus batesii",
+    "category": "serpente",
+    "size": "1,8-2,1 metros; ~1,5 kg",
+    "lifespan": "15-30 anos",
+    "temperament": "Famosa por ser temperamental. C. batesii teoricamente mais dócil. Mordidas podem ser dolorosas (dentes longos).",
+    "temperature": {
+      "hotSide": "25-30°C",
+      "coldSide": "15-20°C (noturno)",
+      "notes": "Placa de aquecimento + lâmpada overhead para basking."
+    },
+    "humidity": "65-100% (flutuações diárias com borrifação)",
+    "enclosure": {
+      "juvenile": "30x30x30 cm a 90x45x45 cm",
+      "adult": "Mínimo 70x70x100 cm. Orientação VERTICAL/arborícola.",
+      "type": "Poleiros horizontais, tigelas de água no chão e elevadas, esconderijos, plantas."
+    },
+    "substrate": ["Materiais que retêm umidade"],
+    "feeding": {
+      "preyTypes": ["Ratos", "Camundongos", "Pintinhos", "Codornas"],
+      "frequency": "A cada 21-30 dias (menos frequente que outras espécies)",
+      "proportion": "10-20% do peso corporal",
+      "notes": "Presa pré-abatida recomendada."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Nascem laranja/vermelho; adquirem coloração verde aos 9-12 meses (mudança ontogenética)."
+    },
+    "lighting": "Lâmpada overhead para basking. Termômetro e higrômetro essenciais.",
+    "health": ["Sem vacinação de rotina", "Espécie avançada — não recomendada para iniciantes"],
+    "tips": [
+      "Naturalmente arborícola — move-se horizontalmente entre galhos.",
+      "Poleiros do mesmo diâmetro que a largura do corpo.",
+      "Tigelas de água no chão e elevadas.",
+      "Mudança de cor de laranja para verde aos 9-12 meses é característica."
+    ],
+    "source": "https://meuexotico.com.br/pet/periquitamboia-corallus-caninus-corallus-batesii/"
+  },
+  {
+    "id": "camaleao",
+    "name": "Camaleão",
+    "scientificName": "Chamaeleo calyptratus / C. jacksonii / Furcifer pardalis",
+    "category": "lagarto",
+    "size": "20-60 cm dependendo da espécie",
+    "lifespan": "3-10 anos (Iêmen: 6-8; Jackson: 5-10; Pantera: até 5)",
+    "temperament": "Solitário, calmo e de baixa atividade. Pode ser agressivo, especialmente machos juntos. Contemplativo.",
+    "temperature": {
+      "hotSide": "29-35°C (basking)",
+      "coldSide": "18-27°C (varia por espécie)",
+      "notes": "Iêmen: 22-26°C dia. Jackson: 21-27°C. Pantera: 24-32°C."
+    },
+    "humidity": "50-85% (varia por espécie: Iêmen ~50%, Jackson 50-80%, Pantera 60-85%)",
+    "enclosure": {
+      "juvenile": "Proporcional ao tamanho",
+      "adult": "Mínimo 120x90x90 cm vertical. Laterais de tela recomendadas para ventilação.",
+      "type": "Terrário vertical com galhos e plantas."
+    },
+    "substrate": ["Evitar substratos finos como areia para evitar ingestão"],
+    "feeding": {
+      "preyTypes": ["Grilos", "Tenébrios", "Baratas Dubia e Cinerea"],
+      "frequency": "Diariamente",
+      "proportion": "Insetos gut-loaded e/ou polvilhados com cálcio",
+      "notes": "SÓ BEBEM GOTÍCULAS DE ÁGUA — borrifação 2x ao dia obrigatória."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Umidade adequada essencial para trocas saudáveis."
+    },
+    "lighting": "Lâmpada UVB obrigatória no topo, 6-12 horas diárias. Trocar lâmpada anualmente.",
+    "health": ["Indicadores de estresse: postura estática, boca aberta, mudança de cor", "Consultas veterinárias anuais"],
+    "tips": [
+      "Alojamento estritamente solitário.",
+      "Plantas vivas ou artificiais não-tóxicas e galhos de diâmetros variados.",
+      "Sistema de gotejamento ou borrifação 2x ao dia para hidratação.",
+      "Trocar lâmpada UVB anualmente."
+    ],
+    "source": "https://meuexotico.com.br/pet/camaleoes/"
+  },
+  {
+    "id": "lagartixa-leopardo",
+    "name": "Lagartixa Leopardo",
+    "scientificName": "Eublepharis macularius",
+    "category": "lagarto",
+    "size": "Até 25 cm; até 90g",
+    "lifespan": "15-20 anos",
+    "temperament": "Crepuscular. Altamente sociável com humanos. Pode ser manuseada diariamente. Excelente para iniciantes.",
+    "temperature": {
+      "hotSide": "~30°C",
+      "coldSide": "~24°C",
+      "notes": "Gradiente de 24-30°C."
+    },
+    "humidity": "~40%",
+    "enclosure": {
+      "juvenile": "Proporcional",
+      "adult": "Mínimo 90x45x45 cm. +25% por animal adicional.",
+      "type": "Vidro, madeira, plástico ou alvenaria."
+    },
+    "substrate": ["Areia (grau 0)", "Chips de coco", "Fibra de coco", "Tapete de fibra", "Grama sintética", "Cerâmica", "Pedra"],
+    "feeding": {
+      "preyTypes": ["Grilos", "Baratas", "Tenébrios"],
+      "frequency": "3-4 vezes por semana (dias alternados)",
+      "proportion": "Insetos vivos preferidos. Polvilhar com cálcio + vitamina D.",
+      "notes": "Água fresca sempre disponível em tigelas rasas."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Esconderijo úmido CRÍTICO para troca saudável, especialmente nos dígitos."
+    },
+    "lighting": "UVB baixo (2-5%) pode ser benéfico. Não obrigatório se suplementação adequada. Fotoperíodo até 12h com timer.",
+    "health": ["Esconderijo úmido essencial contra problemas de troca", "Consultas anuais"],
+    "tips": [
+      "Dois esconderijos obrigatórios: um na zona quente e um úmido na zona fria.",
+      "Esconderijo úmido com sphagnum ou fibra de coco borrifado a cada 1-2 dias.",
+      "Manusear gentilmente com a palma aberta; nunca agarrar pela cauda.",
+      "Cortiça, rochas, troncos e plantas artificiais para enriquecimento."
+    ],
+    "source": "https://meuexotico.com.br/pet/lagartixa-leopardo-eublepharis-macularius/"
+  },
+  {
+    "id": "gecko-de-crista",
+    "name": "Gecko de Crista",
+    "scientificName": "Correlophus ciliatus",
+    "category": "lagarto",
+    "size": "15-25 cm; 35-45g",
+    "lifespan": "15-20 anos",
+    "temperament": "Extremamente dócil com humanos. Naturalmente tímido e crepuscular. Potencialmente agressivo com outros da espécie.",
+    "temperature": {
+      "hotSide": "26-28°C",
+      "coldSide": "20-24°C",
+      "notes": "Noite: 18-24°C."
+    },
+    "humidity": "60-80%",
+    "enclosure": {
+      "juvenile": "Proporcional",
+      "adult": "Mínimo 60x45x45 cm. Configuração vertical/arborícola essencial.",
+      "type": "Terrários de vidro preferidos para retenção de umidade."
+    },
+    "substrate": ["Papel toalha", "Fibra de coco", "Musgo sphagnum"],
+    "feeding": {
+      "preyTypes": ["Frutas amassadas (mamão, manga, pera, banana)", "Grilos", "Tenébrios"],
+      "frequency": "Frutas 3-4x por semana. Insetos como suplemento: 5-10 grilos ou 3-5 tenébrios com cálcio.",
+      "proportion": "Primariamente frugívoro",
+      "notes": "Uma das espécies mais fáceis de alimentar."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Umidade adequada facilita o processo."
+    },
+    "lighting": "Espécie noturna; UVB não obrigatório com suplementação adequada. UVB baixo (2-5%) com ciclo de 12h é benéfico.",
+    "health": ["Consultas veterinárias anuais"],
+    "tips": [
+      "Espécie arborícola — espaço vertical com galhos e folhagem.",
+      "Terrários de vidro ajudam a manter umidade necessária.",
+      "Um dos geckos mais fáceis de cuidar."
+    ],
+    "source": "https://meuexotico.com.br/pet/gecko-de-crista-crested-gecko-correlophus-ciliatus/"
+  },
+  {
+    "id": "dragao-barbado",
+    "name": "Dragão Barbado",
+    "scientificName": "Pogona vitticeps",
+    "category": "lagarto",
+    "size": "~45 cm (incluindo cauda); até 500g",
+    "lifespan": "10-15 anos",
+    "temperament": "Diurno. Solitário e territorial com outros dragões. Sociável com humanos quando manuseado calmamente.",
+    "temperature": {
+      "hotSide": "42°C (zona de basking)",
+      "coldSide": "20-26°C",
+      "notes": "Noite pode cair a 20°C. Lâmpada de basking: 60-100W incandescente/halógena com termostato."
+    },
+    "humidity": "30-40% (espécie árida)",
+    "enclosure": {
+      "juvenile": "Proporcional",
+      "adult": "Mínimo 120x60x60 cm.",
+      "type": "Madeira, vidro, plástico resistente ou alvenaria."
+    },
+    "substrate": ["Areia", "Chips de coco", "Fibra de coco", "Tapete de fibra", "Grama sintética", "Cerâmica", "Pedra"],
+    "feeding": {
+      "preyTypes": ["Grilos", "Baratas", "Tenébrios"],
+      "frequency": "Jovens: 2x ao dia. Adultos: 1x ao dia.",
+      "proportion": "Jovens: 65% insetos, 35% vegetais. Adultos: 40% insetos, 60% vegetais.",
+      "notes": "Vegetais: rúcula, chicória, abóbora, mostarda, couve, cenoura, beterraba. Evitar frutas. Polvilhar cálcio + vitamina D regularmente."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Manter condições adequadas."
+    },
+    "lighting": "UVB obrigatório 6-12 horas diárias. Não penetra vidro/acrílico — instalar dentro do terrário. Trocar lâmpada a cada 12 meses.",
+    "health": ["Deficiência de cálcio/vitamina D é risco sem iluminação e suplementação adequadas", "Consultas anuais"],
+    "tips": [
+      "Estruturas para escalar (troncos, cortiça, rochas) para enriquecimento e termorregulação.",
+      "Tempo ao ar livre possível em dias ensolarados acima de 25°C (antes das 11h ou após 15h).",
+      "Água fresca sempre em tigelas largas que permitam banho.",
+      "UVB DEVE ser instalado dentro do terrário — não funciona através do vidro."
+    ],
+    "source": "https://meuexotico.com.br/pet/dragao-barbado-pogona-vitticeps/"
+  },
+  {
+    "id": "teiu",
+    "name": "Teiú",
+    "scientificName": "Salvator merianae / S. rufescens",
+    "category": "lagarto",
+    "size": "1,2-1,5 m; até 15 kg",
+    "lifespan": "12-20 anos",
+    "temperament": "Altamente inteligente, dócil quando manuseado adequadamente, territorial com outros répteis. Muito afetuoso com humanos. Diurno, explorador ativo.",
+    "temperature": {
+      "hotSide": "37°C (zona de basking)",
+      "coldSide": "24-32°C (gradiente)",
+      "notes": "Lâmpada de basking: 60-100W com termostato. Desligada à noite."
+    },
+    "humidity": "75-90%",
+    "enclosure": {
+      "juvenile": "90x45x45 cm mínimo",
+      "adult": "Jovens adultos: 180x90x90 cm. Adultos: 250x90x90 cm ou recinto externo.",
+      "type": "Substrato profundo para escavação."
+    },
+    "substrate": ["Fibra de coco", "Sphagnum", "Mistura terra-areia"],
+    "feeding": {
+      "preyTypes": ["Insetos", "Vegetais", "Frutas", "Roedores", "Aves inteiras", "Carnes magras", "Ovos"],
+      "frequency": "Jovens: diariamente. 1 ano: a cada 2 dias. Adultos: a cada 3 dias.",
+      "proportion": "Onívoro — dieta variada essencial",
+      "notes": "Cálcio: 3-4x/semana (jovens), 2x/semana (adultos)."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Umidade adequada facilita trocas saudáveis."
+    },
+    "lighting": "UVB 6-12 horas diárias (direto, não através do vidro). UVA via halógena ou luz natural.",
+    "health": ["Consultas anuais", "Reservas financeiras para emergências", "Nunca soltar na natureza"],
+    "tips": [
+      "Requer compromisso significativo de espaço.",
+      "Substrato profundo: 10 cm jovens, 20 cm adultos.",
+      "Supervisão necessária fora do recinto.",
+      "Um dos répteis mais interativos e inteligentes."
+    ],
+    "source": "https://meuexotico.com.br/pet/teius-salvator-spp/"
+  },
+  {
+    "id": "iguana",
+    "name": "Iguana",
+    "scientificName": "Iguana iguana",
+    "category": "lagarto",
+    "size": "1,5-2,1 m; 4,5-9 kg",
+    "lifespan": "10-15 anos (até 20 esporadicamente)",
+    "temperament": "Diurna, solitária, territorial. Inteligente e interativa mas temperamental. Garras afiadas podem causar lesões. Jovens são rápidos e exigem manuseio cuidadoso.",
+    "temperature": {
+      "hotSide": "35-38°C (basking)",
+      "coldSide": "24-27°C",
+      "notes": "Noite: 24-27°C."
+    },
+    "humidity": "~70%",
+    "enclosure": {
+      "juvenile": "90x45x45 cm vertical (até 6 meses)",
+      "adult": "Adultos: 200x200x90 cm mínimo (ideal: 350x180x250 cm).",
+      "type": "Terrário vertical. Requer espaço massivo."
+    },
+    "substrate": ["Chips de coco", "Fibra de coco", "Musgo sphagnum", "Mistura terra-areia", "Tapetes"],
+    "feeding": {
+      "preyTypes": ["Folhas verdes escuras", "Agrião", "Chicória", "Abóbora", "Mostarda", "Couve", "Cenoura", "Rúcula"],
+      "frequency": "Jovens: 2x ao dia. Jovens adultos: diariamente. Adultos: a cada 2 dias.",
+      "proportion": "ESTRITAMENTE HERBÍVORA",
+      "notes": "Cálcio + vitamina D: a cada 2 dias (jovens), 2x/semana (adultos). Pellets herbívoros comerciais como complemento."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Umidade adequada ajuda no processo."
+    },
+    "lighting": "UVB obrigatório 6-12 horas diárias para metabolismo de cálcio e vitamina D. UVA via 60-100W incandescente/halógena.",
+    "health": ["Risco de autotomia caudal por manuseio inadequado", "Quedas de alturas podem ser fatais", "Deficiência de cálcio sem iluminação/suplementação"],
+    "tips": [
+      "Uma das espécies que mais demanda ESPAÇO.",
+      "Água fresca em tigelas largas para banho.",
+      "Luzes desligadas à noite para ritmo circadiano.",
+      "Jovens muito rápidos — manuseio cuidadoso."
+    ],
+    "source": "https://meuexotico.com.br/pet/iguana-iguana-iguana/"
+  },
+  {
+    "id": "varano-das-savanas",
+    "name": "Varano das Savanas",
+    "scientificName": "Varanus exanthematicus",
+    "category": "lagarto",
+    "size": "90-120 cm; 6-10 kg",
+    "lifespan": "8-15 anos",
+    "temperament": "Diurno, solitário, territorial. Pode ser altamente interativo e dócil quando socializado desde jovem. Não recomendado para iniciantes.",
+    "temperature": {
+      "hotSide": "35-45°C (basking)",
+      "coldSide": "28-32°C",
+      "notes": "Noite: mínimo 23-26°C. Aquecimento cerâmico/infravermelho em regiões frias."
+    },
+    "humidity": "~60% com bolsões de umidade perto de fontes de água",
+    "enclosure": {
+      "juvenile": "90x45x45 cm (temporário)",
+      "adult": "Jovens adultos: 180x90x90 cm. Adultos: 250x90x90 cm ou recinto externo.",
+      "type": "Caixa de escavação suplementar (60 cm profundidade) recomendada."
+    },
+    "substrate": ["Papel toalha em camadas", "Fibra de coco", "Musgo sphagnum", "Mistura terra-areia"],
+    "feeding": {
+      "preyTypes": ["Invertebrados", "Ovos", "Mamíferos pequenos", "Aves"],
+      "frequency": "Jovens: diariamente insetos + 3-4x/semana roedores. Adultos: 2 refeições/semana.",
+      "proportion": "Carnívoro. Jovens primariamente insetívoros.",
+      "notes": "Altamente suscetível à OBESIDADE — monitorar peso regularmente."
+    },
+    "shedding": {
+      "frequency": "Variável",
+      "notes": "Umidade adequada facilita trocas."
+    },
+    "lighting": "UVA via lâmpada de basking. UVB recomendado (lâmpadas 2.0 ou 5.0) durante horas diurnas.",
+    "health": ["Altamente suscetível à OBESIDADE", "Monitoramento regular de peso essencial", "Consultas anuais"],
+    "tips": [
+      "Animais pesados e destrutivos — ornamentos bem fixados.",
+      "Tigelas grandes para imersão — são excelentes nadadores.",
+      "Tempo ao ar livre em dias quentes acima de 25°C.",
+      "Substrato profundo: 10 cm jovens, 20-30 cm adultos."
+    ],
+    "source": "https://meuexotico.com.br/pet/varano-das-savanas-varanus-exanthematicus/"
+  },
+  {
+    "id": "tigre-dagua",
+    "name": "Tigre d'Água",
+    "scientificName": "Trachemys dorbigni",
+    "category": "quelonio",
+    "size": "Machos: ~15 cm. Fêmeas: até 30 cm. 500g-1,5 kg.",
+    "lifespan": "20+ anos",
+    "temperament": "Social, quieto, diurno. Pode ser agressivo quando manuseado incorretamente.",
+    "temperature": {
+      "hotSide": "Lâmpada halógena para basking",
+      "coldSide": "Água: 28°C com termostato (1W por litro)",
+      "notes": "Pode entrar em brumação no inverno."
+    },
+    "humidity": "Ambiente semi-aquático provê umidade inerente",
+    "enclosure": {
+      "juvenile": "Proporcional",
+      "adult": "Mínimo: 10x comprimento (C) x 5x (L) x 2x (profundidade). Ex: 15cm = 150x75x30cm.",
+      "type": "Aquaterrário ou lago externo. Água: 70%, terra: máx 30%. Filtro de água adequado obrigatório."
+    },
+    "substrate": ["Setup aquático com filtração"],
+    "feeding": {
+      "preyTypes": ["Peixes pequenos", "Insetos", "Crustáceos", "Plantas aquáticas", "Alface", "Couve", "Espinafre", "Camarão", "Minhocas"],
+      "frequency": "Filhotes: diariamente. Adultos: 2-4x por semana.",
+      "proportion": "Onívoro",
+      "notes": "Alimentar na água. Remover restos em 5 minutos. Suplemento de cálcio."
+    },
+    "shedding": {
+      "frequency": "N/A",
+      "notes": "Quelônios não fazem troca de pele como serpentes/lagartos."
+    },
+    "lighting": "Mínimo 2 horas de sol natural diário OU lâmpada UVB.",
+    "health": ["Sem vacinação", "Vermifugação somente com prescrição veterinária", "Brumação possível em regiões frias"],
+    "tips": [
+      "Espécie nativa brasileira — comprar apenas de criadores licenciados.",
+      "Nunca soltar na natureza.",
+      "Manutenção semanal: 30-60 min (troca de água, limpeza).",
+      "Mensal: 1-2 horas (limpeza completa, manutenção do filtro, pesagem)."
+    ],
+    "source": "https://meuexotico.com.br/pet/tigre-dagua-trachemys-dorbigni/"
+  },
+  {
+    "id": "tracaja",
+    "name": "Tracajá",
+    "scientificName": "Podocnemis unifilis",
+    "category": "quelonio",
+    "size": "Machos: ~30 cm. Fêmeas: 45+ cm. Até 8-12 kg.",
+    "lifespan": "20+ anos",
+    "temperament": "Social, quieto, diurno, semi-aquático. Pode ficar agressivo se manuseado incorretamente.",
+    "temperature": {
+      "hotSide": "Lâmpada halógena para termorregulação",
+      "coldSide": "Água: 28°C com termostato (1W por litro)",
+      "notes": "Entra em brumação durante estação seca na natureza."
+    },
+    "humidity": "Ambiente semi-aquático",
+    "enclosure": {
+      "juvenile": "Proporcional à fórmula",
+      "adult": "Fórmula: C=10x tamanho, L=5x, Prof=2x. Ex: 20cm = 200x100x40cm. Lago externo para adultos em regiões quentes.",
+      "type": "Aquaterrário. Água: 70%, terra: máx 30%. Profundidade: 2-3x comprimento da carapaça. Filtro essencial."
+    },
+    "substrate": ["Setup aquático com filtração"],
+    "feeding": {
+      "preyTypes": ["Vegetais (alface, couve, espinafre, hibisco, dente-de-leão)", "Frutas (banana, maçã, mamão, manga, melão)", "Proteína (peixe, camarão, carne, minhocas, insetos)"],
+      "frequency": "Alimentar na água. Remover restos em 5 minutos.",
+      "proportion": "Onívoro com tendência herbívora conforme envelhece",
+      "notes": "Suplemento de cálcio nos dias de alimento natural."
+    },
+    "shedding": {
+      "frequency": "N/A",
+      "notes": "Quelônios não trocam pele."
+    },
+    "lighting": "UVB obrigatório — sol natural mínimo 2 horas diárias ou lâmpada UVB artificial.",
+    "health": ["Sem vacinação", "Vermifugação apenas com prescrição veterinária"],
+    "tips": [
+      "Espécie nativa protegida — comprar apenas de criadores licenciados.",
+      "Alimentação juvenil: 15-20 min diários.",
+      "Semanal: 30 min (trocas parciais de água).",
+      "Mensal: 1-2 horas (limpeza completa, pesagem)."
+    ],
+    "source": "https://meuexotico.com.br/pet/tracaja-podocnemis-unifilis/"
+  },
+  {
+    "id": "mucua",
+    "name": "Muçuã",
+    "scientificName": "Kinosternon scorpioides",
+    "category": "quelonio",
+    "size": "Machos: ~15 cm. Fêmeas: ~20 cm. 200-660g.",
+    "lifespan": "20+ anos",
+    "temperament": "Dócil, quieto, baixa interação. Diurno, semi-aquático. Excelente nadador e escavador.",
+    "temperature": {
+      "hotSide": "Lâmpada halógena em regiões frias",
+      "coldSide": "Água: 28°C com termostato (1W por litro)",
+      "notes": ""
+    },
+    "humidity": "Ambiente semi-aquático",
+    "enclosure": {
+      "juvenile": "Proporcional à fórmula",
+      "adult": "Fórmula: C=10x, L=5x, Prof=2x. Ex: 15cm = 150x75x30cm. Profundidade: 2-3x carapaça.",
+      "type": "Aquaterrário. Água: 70%, terra: máx 30%. Filtro essencial."
+    },
+    "substrate": ["Setup aquático — espécie escavadora"],
+    "feeding": {
+      "preyTypes": ["Proteínas (peixe, camarão, carne, minhocas, insetos)", "Vegetais (alface, repolho, espinafre, hibisco, dente-de-leão)", "Frutas (banana, maçã, mamão, manga, melão)"],
+      "frequency": "Jovens: diariamente. Alimentar na água.",
+      "proportion": "Onívoro — carnívoro quando jovem, mais herbívoro com idade",
+      "notes": "Remover restos em 5 minutos. Suplementar TODOS alimentos naturais com cálcio."
+    },
+    "shedding": {
+      "frequency": "N/A",
+      "notes": "Quelônios não trocam pele."
+    },
+    "lighting": "Mínimo 2+ horas de sol natural diário OU lâmpada UVB.",
+    "health": ["Sem vacinação", "Vermifugação apenas com prescrição"],
+    "tips": [
+      "Espécie nativa protegida — apenas criadores licenciados.",
+      "Menor espécie aquática da lista.",
+      "Espécie escavadora.",
+      "Nunca soltar na natureza."
+    ],
+    "source": "https://meuexotico.com.br/pet/mucua-kinosternon-scorpioides/"
+  },
+  {
+    "id": "jabuti-piranga",
+    "name": "Jabuti-Piranga",
+    "scientificName": "Chelonoidis carbonaria",
+    "category": "quelonio",
+    "size": "28-50 cm; 6-18 kg",
+    "lifespan": "50+ anos",
+    "temperament": "Diurno, dócil, quieto. Reconhece cuidadores e busca proximidade. Aprecia enriquecimento ambiental.",
+    "temperature": {
+      "hotSide": "26-30°C ambiente",
+      "coldSide": "Abrigos aquecidos em regiões frias",
+      "notes": "UVB + aquecimento em setups internos."
+    },
+    "humidity": "70-85%",
+    "enclosure": {
+      "juvenile": "Proporcional",
+      "adult": "Mínimo 2m² (2x1m) por animal. +25% por animal adicional. Fórmula: 10x carapaça (C), 5x (L), 3x (A).",
+      "type": "Externo preferido com áreas de sol/sombra. Mínimo 2h de sol direto diário. Cercamento seguro contra predadores."
+    },
+    "substrate": ["Terra", "Folhas secas", "Chips de coco", "Fibra de coco", "Pó de coco"],
+    "feeding": {
+      "preyTypes": ["Folhas verdes (couve, acelga, chicória, rúcula, hibisco)", "Frutas (banana, morango, maçã, manga, mamão)", "Vegetais (abóbora cozida, cenoura, batata-doce cozida)", "Proteína mínima (pellets, insetos, ovos)"],
+      "frequency": "Jovens (<2 anos): livre. Adultos: a cada 2 dias.",
+      "proportion": "Onívoro com tendência herbívora",
+      "notes": "Suplementação de cálcio e vitamina D3 essencial, especialmente sem UVB."
+    },
+    "shedding": {
+      "frequency": "N/A",
+      "notes": "Quelônios não trocam pele."
+    },
+    "lighting": "Mínimo 2 horas de sol direto diário. UVB obrigatório em ambientes internos.",
+    "health": ["Sem vacinação", "Vermifugação apenas com prescrição", "Manter fundo de emergência veterinária"],
+    "tips": [
+      "Água fresca diariamente em tigelas rasas; banhos frequentes.",
+      "Enriquecimento: troncos, rochas, plantas não-tóxicas, oportunidades de escavação.",
+      "Espécie nativa protegida — apenas criadores licenciados.",
+      "Compromisso de 50+ anos — considerar o longo prazo.",
+      "Barulho do plastrão arrastando pode ser relevante em apartamentos."
+    ],
+    "source": "https://meuexotico.com.br/pet/jabuti-piranga-chelonoidis-carbonaria/"
+  },
+  {
+    "id": "jabuti-tinga",
+    "name": "Jabuti-Tinga",
+    "scientificName": "Chelonoidis denticulata",
+    "category": "quelonio",
+    "size": "40-70 cm; 40-60 kg",
+    "lifespan": "50+ anos",
+    "temperament": "Diurno, solitário, tolera contato humano. Pode coexistir com outros jabutis com monitoramento.",
+    "temperature": {
+      "hotSide": "26-30°C",
+      "coldSide": "Abrigos aquecidos em regiões frias",
+      "notes": ""
+    },
+    "humidity": "70-85%",
+    "enclosure": {
+      "juvenile": "Proporcional",
+      "adult": "Mínimo 2m² por animal. +25% por adicional. Fórmula: C=10x carapaça, L=5x, A=3x.",
+      "type": "Externo protegido de predadores com cercamento enterrado."
+    },
+    "substrate": ["Terra", "Folhas secas", "Lascas de madeira", "Fibra de coco"],
+    "feeding": {
+      "preyTypes": ["Vegetais (abóbora, cenoura, brócolis, batata-doce, folhas verdes)", "Frutas (banana, morango, maçã, manga, mamão)", "Proteína em pequenas quantidades (pellets, insetos, carne magra)"],
+      "frequency": "Jovens (<2 anos): à vontade. Adultos: a cada 2 dias.",
+      "proportion": "Herbívoro com tendência onívora",
+      "notes": "Suplementação de cálcio e vitamina D3 essencial sem UVB."
+    },
+    "shedding": {
+      "frequency": "N/A",
+      "notes": "Quelônios não trocam pele."
+    },
+    "lighting": "Mínimo 2 horas sol direto diário. UVB obrigatório em ambientes internos.",
+    "health": ["Sem vacinação", "Vermifugação com prescrição", "Fundo de emergência veterinária"],
+    "tips": [
+      "Significativamente MAIOR que o Jabuti-Piranga.",
+      "Coloração mais clara com tons amarelados nas patas.",
+      "Água fresca diariamente. Enriquecimento: exploração, troncos, rochas.",
+      "Proteger jovens de predadores (gatos, aves de rapina, cães)."
+    ],
+    "source": "https://meuexotico.com.br/pet/jabuti-tinga-chelonoidis-denticulata/"
+  },
+  {
+    "id": "tartaruga-esporas-africana",
+    "name": "Tartaruga-de-Esporas-Africana",
+    "scientificName": "Centrochelys sulcata",
+    "category": "quelonio",
+    "size": "61-76 cm (alguns até 102 cm); 32-91 kg",
+    "lifespan": "70+ anos",
+    "temperament": "Diurna, curiosa e ativa. Territorial com outras tartarugas. Escavadoras fortes.",
+    "temperature": {
+      "hotSide": "38-41°C (basking)",
+      "coldSide": "26-32°C (ambiente)",
+      "notes": "Abrigo aquecido obrigatório em regiões frias."
+    },
+    "humidity": "40-60%",
+    "enclosure": {
+      "juvenile": "Proporcional à fórmula",
+      "adult": "Mínimo 10m² para um adulto (ex: 5x2m). Quanto maior, melhor.",
+      "type": "Externo com cercamento enterrado. Abrigo aquecido."
+    },
+    "substrate": ["Terra", "Areia", "Mistura — deve permitir escavação"],
+    "feeding": {
+      "preyTypes": ["Gramíneas", "Folhas de hibisco, amoreira, dente-de-leão", "Couve, acelga, chicória, rúcula, mostarda", "Vegetais (abóbora, abobrinha, cenoura, vagem)", "Frutas (banana, morango, maçã, manga, mamão)"],
+      "frequency": "Jovens: à vontade. Adultos: diariamente conforme apetite.",
+      "proportion": "HERBÍVORA",
+      "notes": "Suplementação de cálcio ESSENCIAL contra doença óssea metabólica. Vitamina D3 se sem UVB."
+    },
+    "shedding": {
+      "frequency": "N/A",
+      "notes": "Quelônios não trocam pele."
+    },
+    "lighting": "Mínimo 2 horas sol direto ao ar livre. UVB + aquecimento obrigatórios em ambientes internos.",
+    "health": ["Doença óssea metabólica é risco principal sem cálcio/D3/UVB", "Sem vacinação", "Vermifugação com prescrição"],
+    "tips": [
+      "Requer hidratação significativa — gosta de banho.",
+      "Escavadoras fortes — enriquecimento com troncos, rochas, plantas.",
+      "Espécie EXÓTICA no Brasil — risco de espécie invasora.",
+      "Compromisso de 70+ ANOS.",
+      "Espaço mínimo de 10m² para um adulto."
+    ],
+    "source": "https://meuexotico.com.br/pet/tartaruga-de-esporas-africana-centrochelys-sulcata/"
+  },
+  {
+    "id": "tartaruga-mordedora",
+    "name": "Tartaruga-Mordedora",
+    "scientificName": "Chelydra serpentina",
+    "category": "quelonio",
+    "size": "25-50 cm; 5-16 kg",
+    "lifespan": "~30 anos",
+    "temperament": "Resiliente, temperamental e AGRESSIVA. Mordida extremamente poderosa. Requer manuseio cuidadoso e responsável.",
+    "temperature": {
+      "hotSide": "~25°C (ambiente)",
+      "coldSide": "Água: 24-29°C com termostato",
+      "notes": ""
+    },
+    "humidity": "Ambiente totalmente aquático",
+    "enclosure": {
+      "juvenile": "Aquaterrário: comprimento mín. 5x tamanho, profundidade 1x.",
+      "adult": "Lagoas externas mín. 1m x 0,5m x 0,5m (CxLxP). Filtragem eficiente obrigatória.",
+      "type": "Totalmente aquático. Água tratada municipal aceitável."
+    },
+    "substrate": ["Areia", "Rochas grandes"],
+    "feeding": {
+      "preyTypes": ["Pellets de tartaruga aquática", "Folhas verdes escuras", "Minhocas", "Tenébrios", "Grilos", "Baratas", "Presas inteiras (roedores, codornas)", "Frutas ocasionais"],
+      "frequency": "Filhotes: diariamente ou a cada 2 dias. Adultos: 2x por semana.",
+      "proportion": "Carnívora voraz",
+      "notes": "Cálcio: 3x/semana (jovens), 1-2x/semana (adultos). Não necessário com presa inteira."
+    },
+    "shedding": {
+      "frequency": "N/A",
+      "notes": "Quelônios não trocam pele."
+    },
+    "lighting": "UVB 6-12 horas diárias (trocar anualmente). Dispensável com sol direto não filtrado.",
+    "health": ["Sem vacinação", "Vermifugação com prescrição", "Consultas anuais"],
+    "tips": [
+      "Espécie EXTREMAMENTE PERIGOSA — requer criadores experientes.",
+      "Nunca soltar na natureza — risco de espécie invasora.",
+      "Enriquecimento: plantas aquáticas, vegetação, troncos, rochas.",
+      "Manuseio humano estressa o animal e arrisca lesões graves."
+    ],
+    "source": "https://meuexotico.com.br/pet/tartaruga-mordedora/"
+  },
+  {
+    "id": "jabutis-brasileiros",
+    "name": "Jabutis Brasileiros",
+    "scientificName": "Chelonoidis spp.",
+    "category": "quelonio",
+    "size": "Piranga: 28-35 cm, até 9 kg. Tinga: 35-75 cm, até 15 kg.",
+    "lifespan": "30+ anos",
+    "temperament": "Calmos, solitários, preferem esconderijos. Podem morder (especialmente dedos dos pés). Ficam dóceis com confiança humana. Diurnos.",
+    "temperature": {
+      "hotSide": "26-30°C com lâmpada e termostato",
+      "coldSide": "Ambiente",
+      "notes": ""
+    },
+    "humidity": "70-85%",
+    "enclosure": {
+      "juvenile": "Mínimo 90x45x45 cm (deve expandir conforme crescimento).",
+      "adult": "Recintos externos para adultos. Prevenir fugas e predação.",
+      "type": "Pisos lisos inadequados — substrato adequado essencial. Esconderijo que permita giro 360°. Tigela rasa (prevenir afogamento)."
+    },
+    "substrate": ["Cortiça", "Troncos", "Rochas", "Plantas para enriquecimento"],
+    "feeding": {
+      "preyTypes": ["Rações comerciais de jabuti", "Folhas verdes escuras (couve, endívia, rúcula, agrião, espinafre, mostarda, brócolis)", "Frutas ocasionais (maçã, banana, mamão, morango)", "Proteína animal 1x/semana (insetos, carne)"],
+      "frequency": "Diariamente",
+      "proportion": "Herbívoro com suplementação",
+      "notes": "Suplemento de cálcio mínimo 3x/semana. Podem recusar comida em temperaturas baixas ao ar livre. Monitorar peso regularmente."
+    },
+    "shedding": {
+      "frequency": "N/A",
+      "notes": "Quelônios não trocam pele."
+    },
+    "lighting": "UVB 6-12 horas diárias (trocar anualmente).",
+    "health": ["Altamente sensíveis quando jovens", "Manuseio excessivo e quedas podem ser fatais para filhotes"],
+    "tips": [
+      "Guia geral para ambas espécies de jabuti brasileiro.",
+      "Nunca soltar na natureza — animais cativos não sobrevivem.",
+      "Filhotes muito sensíveis — proteger de quedas e manuseio excessivo.",
+      "Defecam frequentemente sem controle de local."
+    ],
+    "source": "https://meuexotico.com.br/pet/jabutis-brasileiros-chelonoidis-spp/"
+  }
+]
